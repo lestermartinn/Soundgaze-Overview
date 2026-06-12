@@ -14,7 +14,7 @@ This repo is the home for the project. Soundgaze exists in two versions, built f
 | | |
 |---|---|
 | **Live app (Soundgaze 2.0)** | https://soundgaze2.vercel.app/ |
-| **Paper (Soundgaze 2.0)** | [Soundgaze_2.0.pdf](./Soundgaze_2.0.pdf) |
+| **Paper (Soundgaze 2.0)** | [Soundgaze_2_0__Evaluating_Dimensionality_Reduction_Methods_for_Interactive_3D_Audio_Similarity_Exploration.pdf](./Soundgaze_2_0__Evaluating_Dimensionality_Reduction_Methods_for_Interactive_3D_Audio_Similarity_Exploration.pdf) |
 | **Soundgaze 2.0 Source** | https://github.com/lestermartinn/sgazev2 |
 | **Soundgaze (v1, hackathon) Source** | https://github.com/lestermartinn/Soundgaze |
 
@@ -55,7 +55,7 @@ Maps 8,000 tracks (FMA Small) into a navigable 3D point cloud where proximity re
 
 ## The paper
 
-[`Soundgaze_2.0.pdf`](./Soundgaze_2.0.pdf) — *Soundgaze 2.0: Evaluating Dimensionality Reduction Methods for Interactive 3D Audio Similarity Exploration.* Independent project, Emory CS, Spring 2026. Distributed as a preprint; not submitted to or accepted at any venue.
+[`Soundgaze_2_0__Evaluating_Dimensionality_Reduction_Methods_for_Interactive_3D_Audio_Similarity_Exploration.pdf`](./Soundgaze_2_0__Evaluating_Dimensionality_Reduction_Methods_for_Interactive_3D_Audio_Similarity_Exploration.pdf) — *Soundgaze 2.0: Evaluating Dimensionality Reduction Methods for Interactive 3D Audio Similarity Exploration.* Independent project, Emory CS, Spring 2026. Distributed as a preprint; not submitted to or accepted at any venue.
 
 ---
 
